@@ -1,4 +1,4 @@
-#Learning lots of Git Basics ok
+# Learning lots of Git Basics ok
 
 Social Media
 
